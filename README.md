@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Tshego
+- 👀 I’m interested in progressing my passion in the software development industry
+- 🌱 I’m currently learning Java OOP
+- 💞️ I’m looking to collaborate on projects that are on a bigger scale.
+- 📫 Reach me via my LinkedIn or email address; tshdinga021@student.wethinkcode.co.za
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love the smell of rain
